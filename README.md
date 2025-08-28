@@ -16,10 +16,10 @@ It allows users to explore, book, and manage rental properties with an experienc
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, TailwindCSS, Axios  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Other Tools:** Cloudinary (for images), Map APIs  
+- **Frontend:** EJS (Embedded JavaScript templates), Bootstrap  
+- **Database:** MongoDB (Atlas)  
+- **Other Tools:** Cloudinary (image uploads), Map API 
 
 ---
 
